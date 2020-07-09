@@ -8,5 +8,10 @@ sadsadsa
 
 3...
 
+4.newbranch分支修改的内容
 
+<<<<<<< HEAD
 5.master分支修改内容
+=======
+4.newbranch分支修改的内容
+>>>>>>> newbranch
